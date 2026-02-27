@@ -13,7 +13,7 @@
         <li> PYTHON </li>
 </ul>
 
-Linke : https://www.linkedin.com/in/jefferson-riann-tech/
+Linkedin : https://www.linkedin.com/in/jefferson-riann-tech/
 
 
 <img 
