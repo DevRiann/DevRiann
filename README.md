@@ -1,7 +1,7 @@
 # Jefferson Riann
 
 
-**`DESENVOLVEDOR BACK-END'**
+**DESENVOLVEDOR BACK-END**
 
 Atualmente como Auxiliar de T.I no CEU do novo Lote 1 - PPP | SPE Integra S/A
 
