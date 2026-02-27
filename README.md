@@ -3,14 +3,17 @@
 
 **`DESENVOLVEDOR BACK-END'**
 
-##'Estou estudando Java, Python e Linux'
+
+
+##'Estou estudando Java, Python e Git/Github'##
 
 ### 🎅🏿 Linguagens e Tecnologias
 <ul>
         <li> JAVA </li>
+        <li> PYTHON </li>
 </ul>
 
-itch.io : https://rlgustavo.itch.io/
+Linke : https://www.linkedin.com/in/jefferson-riann-tech/
 
 
 <img 
