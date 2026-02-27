@@ -11,11 +11,29 @@ Cursando Análise e Desenvolvimento de Sistem pela USJT
 <ul>
         <li> JAVA </li>
         <li> PYTHON </li>
+        <li> GIT </li>
+        <li> LINUX - Basics </li>
 </ul>
 
 Linkedin : https://www.linkedin.com/in/jefferson-riann-tech/
 
 
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0azWb7Rl8nurvcSMYBgDVjG0YDP56OGYFaA&s" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -26,11 +44,11 @@ Linkedin : https://www.linkedin.com/in/jefferson-riann-tech/
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Linux" 
+    title="Linux"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1280px-Tux.svg.png" 
 />
 
 <br/>
