@@ -3,9 +3,9 @@
 
 **`DESENVOLVEDOR BACK-END'**
 
+Atualmente como Auxiliar de T.I no CEU do novo Lote 1 - PPP | SPE Integra S/A
 
-
-##'Estou estudando Java, Python e Git/Github'##
+Cursando Análise e Desenvolvimento de Sistem pela USJT
 
 ### 🎅🏿 Linguagens e Tecnologias
 <ul>
