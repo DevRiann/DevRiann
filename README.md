@@ -3,7 +3,7 @@
 
 **DESENVOLVEDOR BACK-END**
 
-Atualmente como Auxiliar de T.I no CEU do novo Lote 1 - PPP | SPE Integra S/A
+Atualmente como Auxiliar de T.I no CEU pela SPE Integra S/A | PPP
 
 Cursando Análise e Desenvolvimento de Sistem pela USJT
 
